@@ -17,7 +17,7 @@ public class PlayerController : MonoBehaviour
     // Un control para hacer el movimiento y la cámara más suaves.
     [SerializeField][Range(0.0f, 0.5f)] float moveSmoothTime = 0.3f;
     [SerializeField] bool smoothMovement = false;
-    [SerializeField][Range(0.0f, 0.5f)] float mouseSmoothTime = 0.01f;
+    [SerializeField][Range(0.0f, 2f)] float mouseSmoothTime = 0.01f;
     [SerializeField] bool smoothCamera = false;
 
     // Anota la rotación actual de la cámara en el eje X.

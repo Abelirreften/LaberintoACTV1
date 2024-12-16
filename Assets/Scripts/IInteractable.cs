@@ -5,6 +5,7 @@ using UnityEngine;
 public interface IInteractable2
 {
 
+    //Creamos funciones
     void interact();
     string getDescription();
 
