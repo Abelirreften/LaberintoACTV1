@@ -6,12 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 8532a9482d8f1de429f45559ae61e23e
+  - enabled: 1
     path: Assets/Scenes/AlmacenExterior.unity
     guid: 7f38e806a519edc4c836e8596d1a6410
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/LaberintoAlmacen.unity
+    guid: da9d6d885b67c1b429a3236fc4a846bd
   - enabled: 1
     path: Assets/Scenes/HabitacionFinal.unity
     guid: 8ed9778fa17667f418922b0e458372cb
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects: {}

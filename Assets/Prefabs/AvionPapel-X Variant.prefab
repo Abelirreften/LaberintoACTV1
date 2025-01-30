@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4767510245368944966
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -14.611951
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.985
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 20.230192
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.49999952
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5000005
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1380822379716136558, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 3709024834195757239, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: avionTotal
+      value: 
+      objectReference: {fileID: 73187970405270267}
+    - target: {fileID: 4840698198585957309, guid: 1ff8264b4d342cb4290d7586f149c725,
+        type: 3}
+      propertyPath: m_Name
+      value: AvionPapel-X Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1ff8264b4d342cb4290d7586f149c725, type: 3}
+--- !u!1 &73187970405270267 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4840698198585957309, guid: 1ff8264b4d342cb4290d7586f149c725,
+    type: 3}
+  m_PrefabInstance: {fileID: 4767510245368944966}
+  m_PrefabAsset: {fileID: 0}
